@@ -1,0 +1,6 @@
+5
+Abdullah Ejaz	19	abdullahejaz123@gmail.com	ghar	bronze	99	025
+Arham Zeeshan	18	ArhamZeeshan3301@gmail.com	colony	plat	71.12	987
+Hamza Zeeshan	20	hamzazeeshan617@gmail.com	Sialkot,Punjab	silver	242.958	676
+Muhummad Ahmed	20	ahmad617@gmail.com	Wafaqi Colony,Lahore	bronze	0	644
+Ali Imran	19	aliimran@gmail.com	Lahore,Punjab	silver	39.65	999

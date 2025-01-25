@@ -1,0 +1,104 @@
+------------------------------------------------------
+Name: Hamza Zeeshan
+Age: 20
+Total bill: = 144PKR
+Time of Payment: 2024-05-17 00:03:37
+------------------------------------------------------
+Item: Tums  Quantity: 10
+Item: Tylenol  Quantity: 7
+Total bill = 440PKR
+Total bill after discount = 418PKR
+Name: Fezaan Shamshaad
+Age: 20
+Final bill: = 418PKR
+Time of Payment: 2024-05-17 00:19:53
+------------------------------------------------------
+Item: Ciprofloxacin  Quantity: 7
+Item: Montelukast  Quantity: 20
+Total bill = 608PKR
+Total bill after discount = 439.2PKR
+Total bill after removing = 395.28PKR
+Name: Hamza Zeeshan
+Age: 20
+Final bill: = 395.28PKR
+Time of Payment: 2024-05-17 00:22:55
+------------------------------------------------------
+Item: Warfarin  Quantity: 7
+Item: Levothyroxine  Quantity: 12
+Item: Clonazepam  Quantity: 9
+Item: Arinac  Quantity: 11
+Total bill = 431PKR
+Total bill after discount = 409.45PKR
+Total bill after removing = 368.505PKR
+Name: Hamza Zeeshan
+Age: 20
+Final bill: = 368.505PKR
+Time of Payment: 2024-05-17 00:27:14
+------------------------------------------------------
+Item: Tramadol  Quantity: 30
+Item: Diazepam  Quantity: 10
+Total bill = 1350PKR
+Total bill after discount = 647.5PKR
+Total bill after removing = 582.75PKR
+Name: Hamza Zeeshan
+Age: 20
+Final bill: = 582.75PKR
+Time of Payment: 2024-05-17 00:36:27
+------------------------------------------------------
+Item: Tums  Quantity: 5
+Item: Tylenol  Quantity: 5
+Total bill = 250PKR
+Total bill after discount = 237.5PKR
+Name: Billu Butt
+Age: 20
+Final bill: = 237.5PKR
+Time of Payment: 2024-05-17 00:43:15
+------------------------------------------------------
+Item: Panadol  Quantity: 15
+Total bill = 300PKR
+Total bill after discount = 285PKR
+Name: Imran Khan
+Age: 72
+Final bill: = 285PKR
+Time of Payment: 2024-05-17 01:13:54
+------------------------------------------------------
+Item: Alprazolam  Quantity: 7
+Item: Warfarin  Quantity: 3
+Total bill = 94PKR
+Total bill after discount = 94PKR
+Item: Arinac  Quantity: 5
+Total bill = 169PKR
+Total bill after discount = 169PKR
+Name: Abdul Rehman Tahir Fastian
+Age: 19
+Final bill: = 169PKR
+Time of Payment: 2024-05-17 10:29:18
+------------------------------------------------------
+Item: Memantine  Quantity: 5
+Item: Olanzapine  Quantity: 10
+Total bill = 250PKR
+Total bill after discount = 237.5PKR
+Total bill after removing = 225.625PKR
+Name: Ali Imran
+Age: 19
+Final bill: = 225.625PKR
+Time of Payment: 2024-05-17 10:45:35
+------------------------------------------------------
+Item: Memantine  Quantity: 50
+Item: Simvastatin  Quantity: 30
+Total bill = 1450PKR
+Total bill after discount = 1232.5PKR
+Total bill after removing = 1170.88PKR
+Name: Ali Imran
+Age: 19
+Final bill: = 1170.88PKR
+Time of Payment: 2024-05-17 10:50:30
+------------------------------------------------------
+Item: Tums  Quantity: 10
+Item: Panadol  Quantity: 10
+Total bill = 500PKR
+Total bill after discount = 450PKR
+Name: arham
+Age: 18
+Final bill: = 0PKR
+Time of Payment: 2025-01-13 18:01:34
